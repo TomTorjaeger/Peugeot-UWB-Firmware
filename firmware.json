@@ -1,6 +1,22 @@
 {
   "schema": 1,
   "stabil": null,
-  "beta": null,
-  "versionen": []
+  "beta": {
+    "version": "1.11.0",
+    "datei": "bins/uwbfira-1.11.0.bin",
+    "groesse": 1270680,
+    "sha256": "4ef3cfdcd5e489db6e48a743e3c36d093a69d01b8fb0f4cc788930fa10eb189d",
+    "schluessel": "Haupt",
+    "sicherheitsstand": 1,
+    "datum": "2026-11-24",
+    "hinweis": "Erste Firmware mit Update per App (Protokoll 7)."
+  },
+  "versionen": [
+    {
+      "version": "1.11.0",
+      "datei": "bins/uwbfira-1.11.0.bin",
+      "sha256": "4ef3cfdcd5e489db6e48a743e3c36d093a69d01b8fb0f4cc788930fa10eb189d",
+      "datum": "2026-11-24"
+    }
+  ]
 }
