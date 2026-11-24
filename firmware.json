@@ -2,20 +2,26 @@
   "schema": 1,
   "stabil": null,
   "beta": {
-    "version": "1.11.0",
-    "datei": "bins/uwbfira-1.11.0.bin",
-    "groesse": 1270680,
-    "sha256": "4ef3cfdcd5e489db6e48a743e3c36d093a69d01b8fb0f4cc788930fa10eb189d",
+    "version": "1.12.0",
+    "datei": "bins/uwbfira-1.12.0.bin",
+    "groesse": 1280408,
+    "sha256": "44b4611007e93f539c1e95adeb50fdb902bf049e6435775c53bbd4473f5b9301",
     "schluessel": "Haupt",
     "sicherheitsstand": 1,
     "datum": "2026-11-24",
-    "hinweis": "Erste Firmware mit Update per App (Protokoll 7)."
+    "hinweis": "Neue Box-Webseite mit Uebersicht (WLAN, IP, Home Assistant, Firmware), fester Name peugeot-uwb im Router, seriell help und info. Auf/Zu unveraendert."
   },
   "versionen": [
     {
       "version": "1.11.0",
       "datei": "bins/uwbfira-1.11.0.bin",
       "sha256": "4ef3cfdcd5e489db6e48a743e3c36d093a69d01b8fb0f4cc788930fa10eb189d",
+      "datum": "2026-11-24"
+    },
+    {
+      "version": "1.12.0",
+      "datei": "bins/uwbfira-1.12.0.bin",
+      "sha256": "44b4611007e93f539c1e95adeb50fdb902bf049e6435775c53bbd4473f5b9301",
       "datum": "2026-11-24"
     }
   ]
